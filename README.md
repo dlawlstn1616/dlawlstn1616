@@ -27,8 +27,13 @@
 ### APIs & Frameworks
 ![REST API](https://img.shields.io/badge/REST%20API-00599C?style=flat-square&logo=postman&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
-![Yocto Project](https://img.shields.io/badge/Yocto%20Project-ED1C24?style=flat-square&logo=yocto&logoColor=white)
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+### Tools
+![Yocto Project](https://img.shields.io/badge/Yocto%20Project-ED1C24?style=flat-square&logo=yocto&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) 
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0097A7?style=flat-square&logo=cisco&logoColor=white) 
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
