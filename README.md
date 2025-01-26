@@ -3,10 +3,10 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <a href="https://github.com/dlawlstn1616/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dlawlstn1616&show_icons=true&theme=radical" alt="Jin's GitHub stats" style="width: 400px; height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dlawlstn1616&show_icons=true&theme=radical" alt="Jin's GitHub stats" style="width: auto; height: 200px;"/>
   </a>
   <a href="https://github.com/dlawlstn1616/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlawlstn1616&layout=compact" alt="Top Langs" style="width: 400px; height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlawlstn1616&layout=compact" alt="Top Langs" style="width: auto; height: 200px;"/>
   </a>
 </div>
 
