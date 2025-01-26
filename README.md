@@ -1,16 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jin's%20HUB&fontSize=90)
 
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <a href="https://github.com/dlawlstn1616/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dlawlstn1616&show_icons=true&theme=radical" alt="Jin's GitHub stats" style="width: auto; height: 200px;"/>
-  </a>
-  <a href="https://github.com/dlawlstn1616/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlawlstn1616&layout=compact" alt="Top Langs" style="width: auto; height: 200px;"/>
-  </a>
-</div>
-
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -38,3 +27,12 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) 
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0097A7?style=flat-square&logo=cisco&logoColor=white) 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <a href="https://github.com/dlawlstn1616/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=dlawlstn1616&show_icons=true&theme=radical" alt="Jin's GitHub stats" style="width: auto; height: 200px;"/>
+  </a>
+  <a href="https://github.com/dlawlstn1616/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlawlstn1616&layout=compact" alt="Top Langs" style="width: auto; height: 200px;"/>
+  </a>
+</div>
