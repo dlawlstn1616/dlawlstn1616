@@ -3,4 +3,4 @@
 
 [![Jinsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlawlstn1616&show_icons=true&theme=radical)](https://github.com/dlawlstn1616/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자이름&layout=compact)](https://github.com/dlawlstn1616/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlawlstn1616&layout=compact)](https://github.com/dlawlstn1616/github-readme-stats)
